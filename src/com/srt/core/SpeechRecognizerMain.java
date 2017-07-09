@@ -31,7 +31,7 @@ public class SpeechRecognizerMain {
 	 * 
 	 * <br>
 	 * Check this link for more information: <a href=
-	 * "https://sourceforge.net/p/cmusphinx/discussion/sphinx4/thread/3875fc39/">https://sourceforge.net/p/cmusphinx/discussion/sphinx4/thread/3875fc39/</a>
+	 * https://sourceforge.net/p/cmusphinx/discussion/sphinx4/thread/3875fc39/</a>
 	 */
 	private boolean ignoreSpeechRecognitionResults = false;
 	/**
