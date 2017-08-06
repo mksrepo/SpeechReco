@@ -102,7 +102,7 @@ public class SpeechRecognizer {
 		// recognizer.startRecognition(true);
 		
 		//Check if resources available
-		startResourcesThread();
+		//startResourcesThread();
 	}
 	
 	//-----------------------------------------------------------------------------------------------

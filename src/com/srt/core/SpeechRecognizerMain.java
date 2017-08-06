@@ -87,7 +87,7 @@ public class SpeechRecognizerMain {
 		// Start recognition process pruning previously cached data.
 		// recognizer.startRecognition(true);
 		// Check if needed resources are available
-		startResourcesThread();
+		//startResourcesThread();
 		// Start speech recognition thread
 		startSpeechRecognition();
 	}
